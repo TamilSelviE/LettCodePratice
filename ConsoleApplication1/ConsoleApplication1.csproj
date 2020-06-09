@@ -46,6 +46,8 @@
     <Compile Include="CirRotation.cs" />
     <Compile Include="CityMap.cs" />
     <Compile Include="CityMapTamil.cs" />
+    <Compile Include="InvertBinaryTree.cs" />
+    <Compile Include="Permutation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

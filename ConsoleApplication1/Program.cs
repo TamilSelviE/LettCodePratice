@@ -9,13 +9,13 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            
-            
-#region Circular Rotation
+
+
+            #region Circular Rotation
             //int[] myArr = new int[] { 1, 2, 3, 4 };
             //Console.WriteLine("Circular Rotation: ");
             //PrintArray(CircularRotation(myArr));
-#endregion
+            #endregion
 
             //#region Find Missing Number within Range 0-100000
             //int[] myArr = new int[] { 0, 2, 3, 4, 6, -1, 2 };
@@ -25,8 +25,9 @@ namespace ConsoleApplication1
 
 
             #region CityMap
-            //CityMap.Get_City_Map_Solution();
-            CityMapTamil.Get_City_Map_Solution();
+            // CityMap.Get_City_Map_Solution();
+            //CityMapTamil.Get_City_Map_Solution();
+            Permutation.GetPermutation();
             #endregion
             Console.ReadKey();
 
