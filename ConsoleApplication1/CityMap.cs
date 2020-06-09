@@ -18,7 +18,7 @@ namespace ConsoleApplication1
             var capital = Get_Capital_City_Index(city_map);
             var counters = new int[city_count - 1];
 
-            var cities_connected_with_capital = city_map[capital];
+            
 
             var result = Update_city_Count(city_map, capital, counters);
 
